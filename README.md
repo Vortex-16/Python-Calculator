@@ -99,6 +99,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 <div align="center">
-  <p>Made with ❤️ by <a href="https://github.com/username">Your Name</a></p>
+  <p>Made with ❤️ by <a href="https://github.com/Vortex-16">Vikash</a></p>
   <p>⭐ Star this repo if you find it useful!</p>
 </div>
